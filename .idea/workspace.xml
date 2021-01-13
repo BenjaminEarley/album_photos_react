@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="125bc707-a3e6-4189-ae22-b7162c9622fc" name="Default Changelist" comment="formatting">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/photos/photo-modal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/photos/photo-modal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/photos/photos.style.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/photos/photos.style.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1myWzjgs0296ckgdU87ZkVocQrL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ui/PhotoPreview" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ui/PhotoPreview" />
+      <recent name="$PROJECT_DIR$/src/ui/AlbumDetail" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/ui/Common" />
+      <recent name="$PROJECT_DIR$/src/ui" />
+      <recent name="$PROJECT_DIR$/src/ui/Model" />
+      <recent name="$PROJECT_DIR$/src/ui/PhotoPreview" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/ui/App.test.tsx" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="125bc707-a3e6-4189-ae22-b7162c9622fc" name="Default Changelist" comment="" />
+      <created>1610466576929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610466576929</updated>
+      <workItem from="1610466580370" duration="402000" />
+      <workItem from="1610466996342" duration="1322000" />
+      <workItem from="1610468374923" duration="1719000" />
+      <workItem from="1610470237499" duration="1747000" />
+      <workItem from="1610472057895" duration="270000" />
+      <workItem from="1610475263043" duration="1747000" />
+      <workItem from="1610477069946" duration="1382000" />
+      <workItem from="1610479033372" duration="1762000" />
+      <workItem from="1610481071586" duration="1720000" />
+      <workItem from="1610482910092" duration="1648000" />
+      <workItem from="1610484720693" duration="1574000" />
+      <workItem from="1610486530223" duration="1757000" />
+      <workItem from="1610488352200" duration="1776000" />
+      <workItem from="1610490162390" duration="1750000" />
+      <workItem from="1610491975802" duration="1793000" />
+      <workItem from="1610493786727" duration="580000" />
+      <workItem from="1610504431171" duration="1741000" />
+      <workItem from="1610506236155" duration="1595000" />
+      <workItem from="1610508047725" duration="1793000" />
+      <workItem from="1610509856847" duration="763000" />
+      <workItem from="1610550360684" duration="1461000" />
+      <workItem from="1610552285475" duration="869000" />
+      <workItem from="1610553178805" duration="1755000" />
+      <workItem from="1610555036173" duration="292000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding home page with hardcoded album squares">
+      <created>1610474277640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610474277640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding service and repository layer for getting data">
+      <created>1610482641704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610482641705</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding hook for grabbing albums to show">
+      <created>1610485639696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610485639696</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pushing to new view on album press">
+      <created>1610487735920</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610487735920</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updating album detail">
+      <created>1610494314389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610494314389</updated>
+    </task>
+    <task id="LOCAL-00006" summary="small fixes">
+      <created>1610505377144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610505377144</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cleanup">
+      <created>1610506507218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610506507218</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding styled components">
+      <created>1610510323286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610510323286</updated>
+    </task>
+    <task id="LOCAL-00009" summary="file cleanup">
+      <created>1610510449060</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610510449060</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixing styling">
+      <created>1610552732604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610552732604</updated>
+    </task>
+    <task id="LOCAL-00011" summary="formatting">
+      <created>1610552852579</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610552852579</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixing file names to be consistent">
+      <created>1610553307565</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610553307565</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add tests">
+      <created>1610554491739</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610554491739</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding home page with hardcoded album squares" />
+    <MESSAGE value="Adding service and repository layer for getting data" />
+    <MESSAGE value="adding hook for grabbing albums to show" />
+    <MESSAGE value="pushing to new view on album press" />
+    <MESSAGE value="updating album detail" />
+    <MESSAGE value="small fixes" />
+    <MESSAGE value="cleanup" />
+    <MESSAGE value="adding styled components" />
+    <MESSAGE value="file cleanup" />
+    <MESSAGE value="fixing styling" />
+    <MESSAGE value="formatting" />
+    <MESSAGE value="fixing file names to be consistent" />
+    <MESSAGE value="add tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tests" />
+  </component>
+</project>
