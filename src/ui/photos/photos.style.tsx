@@ -11,8 +11,12 @@ export const PhotoTitle = styled.p`
 
 export const ModalImage = styled.img`
   background: #F0F2F5;
-  width: 600px;
-  height: 600px;
+  width: 300px;
+  height: 300px;
+  @media (min-width: 600px) {
+    width: 600px;
+    height: 600px;
+  }
 `;
 
 export const Modal = styled.div`

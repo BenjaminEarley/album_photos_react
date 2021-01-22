@@ -25,7 +25,10 @@ export const Card = styled.div`
 
 export const Grid = styled.div`
   display: grid;
-  grid-template-columns: repeat(4, 150px);
+  grid-template-columns: repeat(2, 150px);
+  @media (min-width: 900px) {
+    grid-template-columns: repeat(4, 150px);
+  }
   grid-row-gap: 80px;
   grid-column-gap: 60px;
   width: 100%;

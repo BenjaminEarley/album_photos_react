@@ -4,8 +4,7 @@
     <list default="true" id="125bc707-a3e6-4189-ae22-b7162c9622fc" name="Default Changelist" comment="formatting">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/photos/photo-modal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/photos/photo-modal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/app.style.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/app.style.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ui/photos/photos.style.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/photos/photos.style.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,6 +131,11 @@
       <workItem from="1610552285475" duration="869000" />
       <workItem from="1610553178805" duration="1755000" />
       <workItem from="1610555036173" duration="292000" />
+      <workItem from="1610556099364" duration="117000" />
+      <workItem from="1611328144172" duration="1182000" />
+      <workItem from="1611329975238" duration="1002000" />
+      <workItem from="1611332157737" duration="127000" />
+      <workItem from="1611334238885" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="Adding home page with hardcoded album squares">
       <created>1610474277640</created>
